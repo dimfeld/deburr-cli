@@ -1,11 +1,11 @@
 {
   "name": "deburr-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Command line utility to remove accent marks from characters",
   "main": "index.js",
   "repository": {
-      "type" : "git",
-      "url" : "https://github.com/dimfeld/deburr-cli.git"
+    "type": "git",
+    "url": "https://github.com/dimfeld/deburr-cli.git"
   },
   "bin": {
     "deburr": "index.js"
